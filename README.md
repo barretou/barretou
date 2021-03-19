@@ -1,3 +1,5 @@
+![Initial Greetings!](assets/hello-world.gif)
+
 ### Hi there 👋
 
 <!--
