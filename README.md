@@ -2,7 +2,7 @@
   <img height='300px' width='460px' src='assets/hello-world.gif' />
 </p>
 
-### Hi there 👋
+<h1 align='center'>Hello Devs! Bem vindos 👋</h1>
 
 <!--
 **barretou/barretou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
