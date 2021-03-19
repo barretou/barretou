@@ -1,5 +1,5 @@
 <p align='center'>
-  <img height='400px' width='560px' src='assets/hello-world.gif' />
+  <img height='400px' width='600px' src='assets/hello-world.gif' />
 </p>
 
 <h1 align='center'>Hello Devs! Bem vindos 👋</h1>
