@@ -2,7 +2,7 @@
   <img height='400px' width='600px' src='hello.gif' />
 </p>
 
-<h1 align='center'>Hello Everyone! Bem vindos 👋😄👋</h1>
+<h1 align='center'>Hello Everyone! Bem vindos 👋:octocat:👋</h1>
 
 <h3 align='center'>🔭 About me 🔭</h3>
 <p>Me chamo Gustavo Barreto, tenho 25 anos e sou apaixonado pelo mundo do desenvolvimento. Já trabalho com tecnologia da informação há algum tempo, contudo, sempre na área de infra-estrutura de TI (mais especificamente com servidores Linux). <br/><br/> Tenho investido tempo e esforços para atuar no mercado de Desenvolvimento de software pois é algo que me fascina desde a época da graduação, onde tive meu primeiro contato com programação. Me formei em Engenharia de Telecomunicações e fiz mestrado em Ciência da Computação.</p>
