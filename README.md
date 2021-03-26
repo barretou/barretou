@@ -12,7 +12,7 @@
 <ol>
   <li>HTML/CSS/JS</li>
   <li>Frameworks de estilização cono TailWind, Bootstrap e Bulma.</li>
-  <li>Frameworks JS como ReactJS e NextJS.</li>
+  <li>Frameworks JS como ReactJS,NextJS e VueJS.</li>
 </ol> 
 <!--
 **barretou/barretou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
