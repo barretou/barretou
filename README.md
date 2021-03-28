@@ -11,7 +11,7 @@
 <p>Quase todo meus estudos e trabalhos são direcionados para o desenvolvimento web, focando na <b>Stack JavaScript</b>. Aqui está uma lista resumido a cerca das tecnologias aplicadas em meus projetos: <br/><br/></p>
 <ol>
   <li>HTML/CSS/JS</li>
-  <li>Frameworks de estilização cono <b>TailWind</b>, <b>Bootstrap</b> e <b>Bulma</b>.</li>
+  <li>Frameworks de estilização cono <b>TailWind</b>, <b>Bootstrap</b> e <b>Bulma</b>. Além de estruturar css com <b>SASS</b></li>
   <li>Frameworks JS como <b>ReactJS</b>, <b>NextJS</b> e <b>VueJS</b>.</li>
 </ol> 
 <!--
